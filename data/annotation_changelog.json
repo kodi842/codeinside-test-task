@@ -1,0 +1,698 @@
+{
+  "0 - 2025-04-16 16-59-56-449_00009570.jpg": {
+    "status": "newly_labeled",
+    "raw_boxes": 0,
+    "curated_boxes": 2,
+    "diff": {
+      "added": [
+        "5 0.079688 0.240625 0.028125 0.037500",
+        "5 0.254688 0.265625 0.043750 0.040625"
+      ],
+      "removed": [],
+      "modified": []
+    },
+    "notes": [
+      "Added 2 distant highway lorries missed by the COCO detector, matching sibling frame 00026790."
+    ]
+  },
+  "0 - 2025-04-16 16-59-56-449_00026790.jpg": {
+    "status": "detector_checked_unchanged",
+    "raw_boxes": 2,
+    "curated_boxes": 2,
+    "diff": {
+      "added": [],
+      "removed": [],
+      "modified": []
+    },
+    "notes": [
+      "Cross-checked with pretrained yolo11m (conf>=0.45); zero validator errors and no high-confidence missing-object flags."
+    ]
+  },
+  "000000012993.jpg": {
+    "status": "newly_labeled",
+    "raw_boxes": 0,
+    "curated_boxes": 4,
+    "diff": {
+      "added": [
+        "3 0.751589 0.362030 0.384627 0.424868",
+        "10 0.077795 0.449672 0.083316 0.169569",
+        "0 0.075380 0.525804 0.070149 0.126248",
+        "1 0.953201 0.398497 0.052551 0.071967"
+      ],
+      "removed": [],
+      "modified": []
+    },
+    "notes": [
+      "Annotated bus, pedestrian, bicycle, and car from visual check and YOLO11m proposals (skipped ambiguous edge box #4)."
+    ]
+  },
+  "000000137491.jpg": {
+    "status": "newly_labeled",
+    "raw_boxes": 0,
+    "curated_boxes": 10,
+    "diff": {
+      "added": [
+        "2 0.499337 0.546695 0.874778 0.737026",
+        "10 0.358627 0.054110 0.024207 0.101713",
+        "10 0.931533 0.064401 0.031543 0.128024",
+        "10 0.404339 0.052910 0.020117 0.094127",
+        "10 0.382959 0.058697 0.022173 0.088218",
+        "10 0.031881 0.027391 0.014028 0.050142",
+        "10 0.046016 0.033124 0.014414 0.059864",
+        "10 0.091947 0.039454 0.011900 0.057454",
+        "10 0.004986 0.026778 0.009949 0.053350",
+        "10 0.079381 0.034756 0.012050 0.050578"
+      ],
+      "removed": [],
+      "modified": []
+    },
+    "notes": [
+      "Annotated foreground motorcycle and 9 pedestrians."
+    ]
+  },
+  "000000403134.jpg": {
+    "status": "newly_labeled",
+    "raw_boxes": 0,
+    "curated_boxes": 5,
+    "diff": {
+      "added": [
+        "0 0.819007 0.676133 0.209055 0.176989",
+        "0 0.438336 0.668957 0.198127 0.188770",
+        "10 0.216166 0.485755 0.247504 0.750545",
+        "10 0.434717 0.582451 0.097059 0.247794",
+        "10 0.807093 0.575781 0.099139 0.282037"
+      ],
+      "removed": [],
+      "modified": []
+    },
+    "notes": [
+      "Annotated 2 bicycles and 3 pedestrians."
+    ]
+  },
+  "000000566364.jpg": {
+    "status": "newly_labeled",
+    "raw_boxes": 0,
+    "curated_boxes": 15,
+    "diff": {
+      "added": [
+        "10 0.517290 0.539187 0.155664 0.194042",
+        "4 0.385803 0.757661 0.678534 0.483680",
+        "10 0.907805 0.491130 0.039073 0.140854",
+        "10 0.223844 0.481109 0.024267 0.104458",
+        "10 0.854360 0.472960 0.034351 0.114612",
+        "10 0.398837 0.673269 0.093835 0.103070",
+        "0 0.074544 0.552672 0.125371 0.080174",
+        "10 0.057229 0.472463 0.022694 0.087990",
+        "10 0.364552 0.454618 0.023096 0.092805",
+        "10 0.419876 0.480507 0.031416 0.051352",
+        "10 0.018135 0.473319 0.036040 0.100311",
+        "10 0.080454 0.452250 0.023618 0.067922",
+        "10 0.313765 0.648628 0.052837 0.084021",
+        "10 0.397553 0.460728 0.024540 0.084061",
+        "10 0.578444 0.426693 0.018974 0.052848"
+      ],
+      "removed": [],
+      "modified": []
+    },
+    "notes": [
+      "Annotated pickup truck, cargo bicycle, and 13 pedestrians."
+    ]
+  },
+  "01-04-2023 183852.png": {
+    "status": "detector_checked_unchanged",
+    "raw_boxes": 21,
+    "curated_boxes": 21,
+    "diff": {
+      "added": [],
+      "removed": [],
+      "modified": []
+    },
+    "notes": [
+      "Cross-checked with pretrained yolo11m (conf>=0.45); zero validator errors and no high-confidence missing-object flags."
+    ]
+  },
+  "05-04-2023 220421.png": {
+    "status": "detector_checked_unchanged",
+    "raw_boxes": 7,
+    "curated_boxes": 7,
+    "diff": {
+      "added": [],
+      "removed": [],
+      "modified": []
+    },
+    "notes": [
+      "Cross-checked with pretrained yolo11m (conf>=0.45); zero validator errors and no high-confidence missing-object flags."
+    ]
+  },
+  "05-04-2023 220626.png": {
+    "status": "detector_checked_unchanged",
+    "raw_boxes": 17,
+    "curated_boxes": 17,
+    "diff": {
+      "added": [],
+      "removed": [],
+      "modified": []
+    },
+    "notes": [
+      "Cross-checked with pretrained yolo11m (conf>=0.45); zero validator errors and no high-confidence missing-object flags."
+    ]
+  },
+  "05-04-2023 220818.png": {
+    "status": "detector_checked_unchanged",
+    "raw_boxes": 9,
+    "curated_boxes": 9,
+    "diff": {
+      "added": [],
+      "removed": [],
+      "modified": []
+    },
+    "notes": [
+      "Cross-checked with pretrained yolo11m (conf>=0.45); zero validator errors and no high-confidence missing-object flags."
+    ]
+  },
+  "05-04-2023 220839.png": {
+    "status": "detector_checked_unchanged",
+    "raw_boxes": 17,
+    "curated_boxes": 17,
+    "diff": {
+      "added": [],
+      "removed": [],
+      "modified": []
+    },
+    "notes": [
+      "Cross-checked with pretrained yolo11m (conf>=0.45); zero validator errors and no high-confidence missing-object flags."
+    ]
+  },
+  "102_9aug202317009.png": {
+    "status": "newly_labeled",
+    "raw_boxes": 0,
+    "curated_boxes": 18,
+    "diff": {
+      "added": [
+        "1 0.440776 0.707505 0.055859 0.057460",
+        "4 0.187776 0.501990 0.077361 0.091829",
+        "1 0.265743 0.816430 0.058084 0.065176",
+        "1 0.229358 0.774905 0.051723 0.054190",
+        "1 0.249511 0.679339 0.051840 0.052500",
+        "1 0.315536 0.646396 0.050210 0.045989",
+        "1 0.118353 0.887191 0.056472 0.049168",
+        "1 0.660121 0.602157 0.042311 0.039231",
+        "1 0.202748 0.751031 0.054679 0.058136",
+        "1 0.018542 0.838368 0.036551 0.050541",
+        "1 0.400341 0.675930 0.052654 0.050466",
+        "1 0.668759 0.506653 0.030075 0.037044",
+        "1 0.368735 0.620491 0.049093 0.045932",
+        "1 0.383417 0.644013 0.054499 0.048810",
+        "1 0.027442 0.875362 0.053109 0.048471",
+        "1 0.975382 0.716469 0.032148 0.041388",
+        "1 0.482538 0.368176 0.025544 0.024119",
+        "1 0.655955 0.386119 0.020667 0.025705"
+      ],
+      "removed": [],
+      "modified": []
+    },
+    "notes": [
+      "Annotated 18 vehicles (cars and box truck); dropped proposal #12 (billboard false positive)."
+    ]
+  },
+  "10_9aug202317009.png": {
+    "status": "detector_checked_unchanged",
+    "raw_boxes": 54,
+    "curated_boxes": 54,
+    "diff": {
+      "added": [],
+      "removed": [],
+      "modified": []
+    },
+    "notes": [
+      "Cross-checked with pretrained yolo11m (conf>=0.45); zero validator errors and no high-confidence missing-object flags."
+    ]
+  },
+  "11_170709082023.png": {
+    "status": "supplemented",
+    "raw_boxes": 34,
+    "curated_boxes": 35,
+    "diff": {
+      "added": [
+        "1 0.029661 0.951482 0.059321 0.097035"
+      ],
+      "removed": [],
+      "modified": []
+    },
+    "notes": [
+      "Added 1 visually confirmed missed white car in bottom-left corner."
+    ]
+  },
+  "12_170709082023.png": {
+    "status": "detector_checked_unchanged",
+    "raw_boxes": 35,
+    "curated_boxes": 35,
+    "diff": {
+      "added": [],
+      "removed": [],
+      "modified": []
+    },
+    "notes": [
+      "Cross-checked with pretrained yolo11m (conf>=0.45); zero validator errors and no high-confidence missing-object flags."
+    ]
+  },
+  "15-08-2021_Погоня_Усть-Кут38.jpg": {
+    "status": "detector_checked_unchanged",
+    "raw_boxes": 20,
+    "curated_boxes": 20,
+    "diff": {
+      "added": [],
+      "removed": [],
+      "modified": []
+    },
+    "notes": [
+      "Cross-checked with pretrained yolo11m (conf>=0.45); zero validator errors and no high-confidence missing-object flags."
+    ]
+  },
+  "1649839828.0003297.jpg": {
+    "status": "newly_labeled",
+    "raw_boxes": 0,
+    "curated_boxes": 19,
+    "diff": {
+      "added": [
+        "3 0.888647 0.562664 0.132824 0.190664",
+        "1 0.669810 0.503232 0.049065 0.064194",
+        "1 0.684807 0.567986 0.054033 0.069227",
+        "1 0.739322 0.493343 0.048149 0.064105",
+        "1 0.773052 0.965529 0.062725 0.068461",
+        "1 0.460831 0.293076 0.035531 0.053813",
+        "4 0.243766 0.109244 0.037827 0.091895",
+        "1 0.029877 0.633148 0.054697 0.078746",
+        "1 0.105564 0.588270 0.059319 0.086722",
+        "1 0.636432 0.324410 0.027961 0.058930",
+        "1 0.811089 0.633385 0.078448 0.127341",
+        "1 0.201977 0.017529 0.018236 0.031391",
+        "1 0.610705 0.106026 0.028614 0.042026",
+        "1 0.570662 0.127740 0.033136 0.044505",
+        "1 0.644008 0.093748 0.024431 0.034625",
+        "1 0.310514 0.104459 0.032287 0.049859",
+        "1 0.983829 0.735215 0.026287 0.064698",
+        "1 0.350656 0.186117 0.033758 0.044865",
+        "10 0.334896 0.731507 0.011458 0.068493"
+      ],
+      "removed": [],
+      "modified": []
+    },
+    "notes": [
+      "Annotated 18 vehicles (kept single car box for white van, dropped billboard FP #20) and added 1 missed orange-vest pedestrian."
+    ]
+  },
+  "1_170709082023.png": {
+    "status": "detector_checked_unchanged",
+    "raw_boxes": 38,
+    "curated_boxes": 38,
+    "diff": {
+      "added": [],
+      "removed": [],
+      "modified": []
+    },
+    "notes": [
+      "Cross-checked with pretrained yolo11m (conf>=0.45); zero validator errors and no high-confidence missing-object flags."
+    ]
+  },
+  "2_170709082023.png": {
+    "status": "detector_checked_unchanged",
+    "raw_boxes": 31,
+    "curated_boxes": 31,
+    "diff": {
+      "added": [],
+      "removed": [],
+      "modified": []
+    },
+    "notes": [
+      "Cross-checked with pretrained yolo11m (conf>=0.45); zero validator errors and no high-confidence missing-object flags."
+    ]
+  },
+  "2ca2bd9s-1920.jpg": {
+    "status": "detector_checked_unchanged",
+    "raw_boxes": 4,
+    "curated_boxes": 4,
+    "diff": {
+      "added": [],
+      "removed": [],
+      "modified": []
+    },
+    "notes": [
+      "Cross-checked with pretrained yolo11m (conf>=0.45); zero validator errors and no high-confidence missing-object flags."
+    ]
+  },
+  "3f481679a0862dadddb7d97b7351cf67.jpeg": {
+    "status": "detector_checked_unchanged",
+    "raw_boxes": 2,
+    "curated_boxes": 2,
+    "diff": {
+      "added": [],
+      "removed": [],
+      "modified": []
+    },
+    "notes": [
+      "Cross-checked with pretrained yolo11m (conf>=0.45); zero validator errors and no high-confidence missing-object flags."
+    ]
+  },
+  "4d3c2d6s-1920.jpg": {
+    "status": "detector_checked_unchanged",
+    "raw_boxes": 2,
+    "curated_boxes": 2,
+    "diff": {
+      "added": [],
+      "removed": [],
+      "modified": []
+    },
+    "notes": [
+      "Cross-checked with pretrained yolo11m (conf>=0.45); zero validator errors and no high-confidence missing-object flags."
+    ]
+  },
+  "Licoil_wide_1213.png": {
+    "status": "newly_labeled",
+    "raw_boxes": 0,
+    "curated_boxes": 1,
+    "diff": {
+      "added": [
+        "1 0.394531 0.520833 0.035938 0.037963"
+      ],
+      "removed": [],
+      "modified": []
+    },
+    "notes": [
+      "Added 1 white commercial van on the highway; frame is not an empty background."
+    ]
+  },
+  "Screenshot from 2023-06-05 14-31-50.png": {
+    "status": "supplemented",
+    "raw_boxes": 9,
+    "curated_boxes": 10,
+    "diff": {
+      "added": [
+        "1 0.988822 0.464504 0.019359 0.063224"
+      ],
+      "removed": [],
+      "modified": []
+    },
+    "notes": [
+      "Added 1 visually confirmed missed red car on far right edge."
+    ]
+  },
+  "Screenshot_112.jpg": {
+    "status": "newly_labeled",
+    "raw_boxes": 0,
+    "curated_boxes": 11,
+    "diff": {
+      "added": [
+        "1 0.961094 0.252076 0.075967 0.070835",
+        "1 0.389021 0.203443 0.059844 0.067733",
+        "1 0.477940 0.404388 0.122755 0.165133",
+        "1 0.085698 0.211532 0.038184 0.058356",
+        "4 0.311299 0.422482 0.141983 0.238476",
+        "1 0.145705 0.143889 0.041467 0.056278",
+        "1 0.268842 0.240962 0.083227 0.105788",
+        "1 0.073384 0.141771 0.028458 0.038501",
+        "1 0.088501 0.100527 0.021004 0.023284",
+        "1 0.052213 0.105562 0.023956 0.031063",
+        "1 0.245705 0.109832 0.029313 0.029118"
+      ],
+      "removed": [],
+      "modified": []
+    },
+    "notes": [
+      "Annotated 10 cars and 1 utility truck."
+    ]
+  },
+  "screenshot_1529.png": {
+    "status": "detector_checked_unchanged",
+    "raw_boxes": 19,
+    "curated_boxes": 19,
+    "diff": {
+      "added": [],
+      "removed": [],
+      "modified": []
+    },
+    "notes": [
+      "Cross-checked with pretrained yolo11m (conf>=0.45); zero validator errors and no high-confidence missing-object flags."
+    ]
+  },
+  "screenshot_1760.png": {
+    "status": "newly_labeled",
+    "raw_boxes": 0,
+    "curated_boxes": 9,
+    "diff": {
+      "added": [
+        "1 0.620895 0.248926 0.224434 0.212324",
+        "10 0.765448 0.638513 0.124091 0.635100",
+        "10 0.627052 0.678959 0.139478 0.555874",
+        "10 0.926833 0.212681 0.033124 0.176752",
+        "10 0.965665 0.365019 0.067898 0.375924",
+        "1 0.832680 0.081307 0.031431 0.040050",
+        "10 0.889820 0.116383 0.014433 0.078738",
+        "10 0.955316 0.236814 0.032165 0.176096",
+        "4 0.337532 0.111198 0.118060 0.169639"
+      ],
+      "removed": [],
+      "modified": []
+    },
+    "notes": [
+      "Annotated 2 cars, 1 truck, and 6 pedestrians."
+    ]
+  },
+  "vlcsnap-2022-09-01-11h49m01s294.png": {
+    "status": "detector_checked_unchanged",
+    "raw_boxes": 12,
+    "curated_boxes": 12,
+    "diff": {
+      "added": [],
+      "removed": [],
+      "modified": []
+    },
+    "notes": [
+      "Cross-checked with pretrained yolo11m (conf>=0.45); zero validator errors and no high-confidence missing-object flags."
+    ]
+  },
+  "Снимок экрана от 2023-06-05 14-24-28.png": {
+    "status": "detector_checked_unchanged",
+    "raw_boxes": 24,
+    "curated_boxes": 24,
+    "diff": {
+      "added": [],
+      "removed": [],
+      "modified": []
+    },
+    "notes": [
+      "Cross-checked with pretrained yolo11m (conf>=0.45); zero validator errors and no high-confidence missing-object flags."
+    ]
+  },
+  "Снимок экрана от 2023-06-05 14-29-47.png": {
+    "status": "detector_checked_unchanged",
+    "raw_boxes": 108,
+    "curated_boxes": 108,
+    "diff": {
+      "added": [],
+      "removed": [],
+      "modified": []
+    },
+    "notes": [
+      "Cross-checked with pretrained yolo11m (conf>=0.45); zero validator errors and no high-confidence missing-object flags."
+    ]
+  },
+  "Снимок экрана от 2023-06-05 16-05-35.png": {
+    "status": "fixed_errors",
+    "raw_boxes": 49,
+    "curated_boxes": 49,
+    "diff": {
+      "added": [],
+      "removed": [],
+      "modified": [
+        {
+          "line": 15,
+          "from": "9 0.501903 0.606225 0.093820 0.059540",
+          "to": "7 0.501903 0.606225 0.093820 0.059540"
+        },
+        {
+          "line": 17,
+          "from": "1 0.860350 0.991313 0.089519 0.119080",
+          "to": "1 0.859589 0.773342 0.090563 0.120433"
+        },
+        {
+          "line": 33,
+          "from": "10 0.616438 0.930041 0.012199 0.055480",
+          "to": "10 0.616438 0.731529 0.012199 0.055480"
+        },
+        {
+          "line": 35,
+          "from": "10 0.464992 0.963194 0.015221 0.064953",
+          "to": "10 0.464992 0.763194 0.015221 0.064953"
+        },
+        {
+          "line": 36,
+          "from": "10 0.661920 0.959104 0.014460 0.063599",
+          "to": "10 0.661920 0.758457 0.014460 0.063599"
+        },
+        {
+          "line": 37,
+          "from": "10 0.606925 0.996346 0.015982 0.066306",
+          "to": "10 0.606925 0.796346 0.015982 0.066306"
+        }
+      ]
+    },
+    "notes": [
+      "Line 15: reclassified white DPS sedan from fire_truck (9) to police (7).",
+      "Lines 17, 33, 35, 36, 37: shifted boxes back up ~150px onto the actual vehicle and pedestrians."
+    ]
+  },
+  "Снимок экрана от 2023-06-06 10-13-51.png": {
+    "status": "detector_checked_unchanged",
+    "raw_boxes": 25,
+    "curated_boxes": 25,
+    "diff": {
+      "added": [],
+      "removed": [],
+      "modified": []
+    },
+    "notes": [
+      "Cross-checked with pretrained yolo11m (conf>=0.45); zero validator errors and no high-confidence missing-object flags."
+    ]
+  },
+  "Снимок экрана от 2023-06-07 14-29-35.png": {
+    "status": "detector_checked_unchanged",
+    "raw_boxes": 23,
+    "curated_boxes": 23,
+    "diff": {
+      "added": [],
+      "removed": [],
+      "modified": []
+    },
+    "notes": [
+      "Cross-checked with pretrained yolo11m (conf>=0.45); zero validator errors and no high-confidence missing-object flags."
+    ]
+  },
+  "Снимок экрана от 2023-06-07 14-47-51.png": {
+    "status": "detector_checked_unchanged",
+    "raw_boxes": 27,
+    "curated_boxes": 27,
+    "diff": {
+      "added": [],
+      "removed": [],
+      "modified": []
+    },
+    "notes": [
+      "Cross-checked with pretrained yolo11m (conf>=0.45); zero validator errors and no high-confidence missing-object flags."
+    ]
+  },
+  "Снимок экрана от 2023-06-07 14-48-31.png": {
+    "status": "supplemented",
+    "raw_boxes": 15,
+    "curated_boxes": 17,
+    "diff": {
+      "added": [
+        "10 0.253938 0.277233 0.013908 0.075987",
+        "1 0.358934 0.141075 0.051686 0.043755"
+      ],
+      "removed": [],
+      "modified": []
+    },
+    "notes": [
+      "Added 2 visually confirmed missed objects (1 pedestrian on sidewalk, 1 silver sedan)."
+    ]
+  },
+  "Снимок экрана от 2023-06-07 14-51-32.png": {
+    "status": "detector_checked_unchanged",
+    "raw_boxes": 19,
+    "curated_boxes": 19,
+    "diff": {
+      "added": [],
+      "removed": [],
+      "modified": []
+    },
+    "notes": [
+      "Cross-checked with pretrained yolo11m (conf>=0.45); zero validator errors and no high-confidence missing-object flags."
+    ]
+  },
+  "Снимок экрана от 2023-06-07 16-42-06.png": {
+    "status": "fixed_errors",
+    "raw_boxes": 45,
+    "curated_boxes": 46,
+    "diff": {
+      "added": [
+        "3 0.686971 0.118336 0.035358 0.079327"
+      ],
+      "removed": [],
+      "modified": [
+        {
+          "line": 34,
+          "from": "11 0.433097 0.302263 0.025123 0.104526",
+          "to": "10 0.433097 0.302263 0.025123 0.104526"
+        },
+        {
+          "line": 41,
+          "from": "11 0.451393 0.127694 0.008192 0.033405",
+          "to": "10 0.451393 0.127694 0.008192 0.033405"
+        }
+      ]
+    },
+    "notes": [
+      "Line 34: remapped unknown class_id=11 to 10 (pedestrian) after visual check.",
+      "Line 41: remapped unknown class_id=11 to 10 (pedestrian) after visual check.",
+      "Added 1 missed minibus; ignored left-curb car false positive."
+    ]
+  },
+  "Снимок экрана от 2023-06-08 11-35-27.png": {
+    "status": "detector_checked_unchanged",
+    "raw_boxes": 14,
+    "curated_boxes": 14,
+    "diff": {
+      "added": [],
+      "removed": [],
+      "modified": []
+    },
+    "notes": [
+      "Cross-checked with pretrained yolo11m (conf>=0.45); zero validator errors and no high-confidence missing-object flags."
+    ]
+  },
+  "Снимок экрана от 2023-06-08 11-38-38.png": {
+    "status": "detector_checked_unchanged",
+    "raw_boxes": 9,
+    "curated_boxes": 9,
+    "diff": {
+      "added": [],
+      "removed": [],
+      "modified": []
+    },
+    "notes": [
+      "Cross-checked with pretrained yolo11m (conf>=0.45); zero validator errors and no high-confidence missing-object flags."
+    ]
+  },
+  "Снимок экрана от 2023-06-08 11-38-52.png": {
+    "status": "fixed_errors",
+    "raw_boxes": 18,
+    "curated_boxes": 21,
+    "diff": {
+      "added": [
+        "1 0.285698 0.369706 0.064982 0.157860",
+        "1 0.312713 0.140422 0.043508 0.115198",
+        "1 0.332550 0.040440 0.041081 0.075562",
+        "1 0.316361 0.238739 0.046188 0.096847"
+      ],
+      "removed": [
+        {
+          "line": 2,
+          "box": "8 0.288781 0.019144 0.055648 0.086086"
+        }
+      ],
+      "modified": [
+        {
+          "line": 1,
+          "from": "9 0.597885 0.649775 0.200890 0.880681",
+          "to": "9 0.598219 0.640766 0.200334 0.362613"
+        }
+      ]
+    },
+    "notes": [
+      "Line 1: tightened fire_truck box (raw y=0.209..1.090) onto the vehicle.",
+      "Line 2: removed ambulance box on empty top asphalt.",
+      "Added 4 missed cars in the upper traffic lane."
+    ]
+  }
+}

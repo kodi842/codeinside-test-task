@@ -1,0 +1,11 @@
+# Manual camera/scene groups for frames that dHash misses across lighting changes or blur.
+groups:
+  inter_pobedy_cam:
+    - "01-04-2023 183852.png"
+    - "05-04-2023 220421.png"
+    - "05-04-2023 220626.png"
+    - "05-04-2023 220818.png"
+    - "05-04-2023 220839.png"
+  fire_accident_0608:
+    - "Снимок экрана от 2023-06-08 11-38-38.png"
+    - "Снимок экрана от 2023-06-08 11-38-52.png"
