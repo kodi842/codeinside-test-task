@@ -1,0 +1,17 @@
+experiment_name: yolo11n_traffic_mini
+model: yolo11n.pt
+epochs: 5
+imgsz: 640
+batch: 8
+nbs: 8
+device: auto
+seed: 42
+workers: 0
+lr0: 0.001
+optimizer: AdamW
+patience: 10
+conf_threshold: 0.25
+iou_threshold: 0.5
+num_vis_samples: 6
+runs_dir: runs
+manifest_path: reports/manifest.sha256
