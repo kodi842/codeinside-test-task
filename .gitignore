@@ -1,0 +1,30 @@
+# Virtual environments & Python caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# OS & editor files
+.DS_Store
+Thumbs.db
+
+# Model weights
+*.pt
+*.onnx
+*.engine
+*.mlpackage
+weights/
+
+# Generated / raw large datasets (keep .gitkeep)
+data/raw/*
+!data/raw/.gitkeep
+data/processed/*
+!data/processed/.gitkeep
+
+# Experiment run outputs & TensorBoard logs (keep .gitkeep)
+runs/*
+!runs/.gitkeep
