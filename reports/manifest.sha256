@@ -1,0 +1,81 @@
+a3d6e723864237feb66f17cfeb9f6620c9ef468e334debdadbe553b32adee869  data/processed/dataset.yaml
+7597b29b0bb5f659bd6e965e4c1e596b8d146dbf4f026370df276d9ad225f29f  data/processed/images/test/000000566364.jpg
+4495187cdba87b07c5641891484c75b99ba70f8d1d31661054c713460fd54b88  data/processed/images/test/1649839828.0003297.jpg
+5b6146e8972fc3c07be6ed339724f606ddde7700a49bf500e01249c65cb35474  data/processed/images/test/Licoil_wide_1213.png
+f52adcdb7dd42b3934f73a6268dd233309605b0c5610f3c30ea55b4cec09a4f3  data/processed/images/test/Снимок экрана от 2023-06-05 16-05-35.png
+a7ac882de4d28601ab0fad31cbdf45f2876bece7d0d4bf607c2b9acf63717ab1  data/processed/images/test/Снимок экрана от 2023-06-08 11-38-38.png
+be2c8be5c28139cd9c22df3534300ef4a8b3fda5306864bd611c779001832957  data/processed/images/test/Снимок экрана от 2023-06-08 11-38-52.png
+0362879ec0a8e2ac7447b99fe64547b0af3e6efe2fc0beba6eb29da76c0c1f5a  data/processed/images/train/0 - 2025-04-16 16-59-56-449_00009570.jpg
+ffafc4f67ab162161f667455034a347f56f044427787afcd608787caf0b4e244  data/processed/images/train/0 - 2025-04-16 16-59-56-449_00026790.jpg
+3b05ac8d474dbc28903310a803beb1c417335cadf87ed7b05735b0385872aa6e  data/processed/images/train/000000012993.jpg
+13f2436caba53fd9bafb783e7048a26153e8959400197eda4f2db217e1e8c8f4  data/processed/images/train/000000137491.jpg
+eb1fbce2a133292bb39f4ba335d641a484bd3f3aa8ef414234af6f1a839817bf  data/processed/images/train/01-04-2023 183852.png
+29a33784821fdc955426920fddd019a8af1ec80b6d43c9861f8510a65a13b82c  data/processed/images/train/05-04-2023 220421.png
+0b8edf0d0832259aeab8663cb2e332c8b101447fa239e4c552332f7c3f2195ee  data/processed/images/train/05-04-2023 220626.png
+1fb198b4612caa9daa26e591ff1a47c96dbe57340b58e12d3fa020e19a1047c2  data/processed/images/train/05-04-2023 220818.png
+30244d9927aea5b898500eeb38839e3a95df230d767beccddde02042caced9bc  data/processed/images/train/05-04-2023 220839.png
+41011ad0b4e4f66b22f842a55b0603f9183330494798dbc34874100125b7b449  data/processed/images/train/11_170709082023.png
+f7b59e77f78cfe3476f33445602fed630a4d729f371c643255d516be4d4a76ff  data/processed/images/train/12_170709082023.png
+28b707864b13b4f4e11f00abdc169b77f41a9e9d27e6e1ec5e7ead173cf1bec2  data/processed/images/train/15-08-2021_Погоня_Усть-Кут38.jpg
+70762c61fe081d14e7a00fa87e386288b7e9f00e455cf0efc624ee2e7b9e9155  data/processed/images/train/1_170709082023.png
+c4e0b787720ce5c13fef42d740545fce14aa96048512c550a7d872078503cefb  data/processed/images/train/2_170709082023.png
+c7d090f875792e266aa7c101683cb8e5ae3378468b383e3786bb966a70e93c9b  data/processed/images/train/2ca2bd9s-1920.jpg
+f8c4e2bbd6dbef3b7a7a4af588a6b9fd29190bd14e74ade14f93ce81cd30d84a  data/processed/images/train/3f481679a0862dadddb7d97b7351cf67.jpeg
+799ca64cf6734fa07f6657ab42dfaba8da08ad6a69ef63637bc99e5955d13ea3  data/processed/images/train/4d3c2d6s-1920.jpg
+b004c4f2a55a5151d11144783d5471b3521c1a7ae0cf1fc1dfcb04c2adb275fd  data/processed/images/train/Screenshot from 2023-06-05 14-31-50.png
+b0677cccb3ba5e182fd085280200dbf058dfb1cae72fea4401bf8c2808a2023f  data/processed/images/train/screenshot_1529.png
+01f5f4a1925014e677071d93caae3fc269f0121ee7e906cc5dd21df7dbd22b87  data/processed/images/train/vlcsnap-2022-09-01-11h49m01s294.png
+7f6dc57b1ff970caaa8d1dfa10d818358230bcf712c9fc3bf30434fe13f98bd0  data/processed/images/train/Снимок экрана от 2023-06-05 14-24-28.png
+04935e3026924305778766ca2bf0e15f26b475af56a300b7191932e7674dec6e  data/processed/images/train/Снимок экрана от 2023-06-05 14-29-47.png
+9b01fbe56f16fbff612d77f378e63b9ff27dcbf7a0cc8b0c7b18dd1bb3ae409e  data/processed/images/train/Снимок экрана от 2023-06-07 14-29-35.png
+4b6d48b05fd00dda75a781d29ab7b65b94b929d41a9cd28a5fe467a9a2d1b5f1  data/processed/images/train/Снимок экрана от 2023-06-07 14-47-51.png
+045f740fd0e6290c15976a0f63d99a350e80c5b28e418dae41d4bb43c61e3352  data/processed/images/train/Снимок экрана от 2023-06-07 14-48-31.png
+c4bcddb1d18bfcc34385a509088f18a3f17aa3aaf3206e399555351673df9fba  data/processed/images/train/Снимок экрана от 2023-06-07 14-51-32.png
+6ec45d5d214ca3e0b7d3e2c4f74f4f554cbf9c0fcbf01615099b6fa464a61fff  data/processed/images/train/Снимок экрана от 2023-06-07 16-42-06.png
+d2419fab68d62bfe194c83269eb0f0fd54a3f35b995a73171b51fd22f3520939  data/processed/images/train/Снимок экрана от 2023-06-08 11-35-27.png
+8e40e61fc6ac28a65c0c9d6e22f386c550f4826f5e044bd2923e976386bf22e3  data/processed/images/val/000000403134.jpg
+e5b9504737a92704515ce26938da82b4a0d4667340d22f9f4d988d9923d9d69b  data/processed/images/val/102_9aug202317009.png
+6fc888d0f537687fd466068807fcb6e677930ebccc1ebd9e952e7cea81f25be1  data/processed/images/val/10_9aug202317009.png
+632185ae5f14eb92b03d05dde3d1843c30d438e3808578625f9ba3c718edb295  data/processed/images/val/Screenshot_112.jpg
+ad851f1d18c9e3a443a0a46aec67880eff1c5b85c2589db7f4d6b54895095554  data/processed/images/val/screenshot_1760.png
+bd9f050c27c88e57e0fcf7e6efc255115d55b2849b7f8753a39b4a2eb304cccc  data/processed/images/val/Снимок экрана от 2023-06-06 10-13-51.png
+396205fa7afb5b314e86ecca5bbea8a346aa7bc9f17743b1389cd5683be067af  data/processed/labels/test/000000566364.txt
+ad35f833310670355f30786b7eec461692d9deaf02c9dcf109401117d0c734b0  data/processed/labels/test/1649839828.0003297.txt
+4d1d78564f39ba5d8bef7b4ce6bca98417311180896871c44b3ae6e4bddc6433  data/processed/labels/test/Licoil_wide_1213.txt
+930e27896d43c395a1a2c913f7fbc990f058aad744172580f67e8cbc7b13dfba  data/processed/labels/test/Снимок экрана от 2023-06-05 16-05-35.txt
+6cc4a5c8b164b1c8f686c623bb15db91af0c1d4ffbefbacfcaeaf601ab87ce5e  data/processed/labels/test/Снимок экрана от 2023-06-08 11-38-38.txt
+bc99465a2622cdad26c33ef489f1529738ce1ce316eb4b823a9f2d233ef9bca7  data/processed/labels/test/Снимок экрана от 2023-06-08 11-38-52.txt
+0910057d4d60aeb3ca23bfeed24f9285e4b30d8189522bbb231b805f4454ebaa  data/processed/labels/train/0 - 2025-04-16 16-59-56-449_00009570.txt
+ef3a4fd27789a95709f439b0a70b5ad5daeaca11e8fce2ec651cd0fc7e3812e8  data/processed/labels/train/0 - 2025-04-16 16-59-56-449_00026790.txt
+2cd72d0215288ad7b5664885fef600608d78b9a3f72f6aaed403b5018c3132c9  data/processed/labels/train/000000012993.txt
+05e2b632b9a004fce95e19422261c6858f5c105d911795b2517d75b2e0993e8b  data/processed/labels/train/000000137491.txt
+374aad80934261533e33c566300da4e833bf6245a4bd038e72faa3a7da42a0ea  data/processed/labels/train/01-04-2023 183852.txt
+4b4de2c0611a2ca880ba2047500ba0b74fd2a97346530bf4d9593489d369d6e6  data/processed/labels/train/05-04-2023 220421.txt
+72dd38aa2141fd9f3d4c3fd413efd11796a19f63834d3ed27217873713331ed3  data/processed/labels/train/05-04-2023 220626.txt
+76d9804ad199e693530deea9b757ab44f14567383da14e33a78c11df29bf798e  data/processed/labels/train/05-04-2023 220818.txt
+032be8628ef5fc2f9f01ed8e7f9a6777f0ab852d409bd9fb47ef758933fe7e41  data/processed/labels/train/05-04-2023 220839.txt
+f0b1dabc5dfc1b6521e5ae7bb427e928a034ddf8f01a01d77a94aebfd34abbce  data/processed/labels/train/11_170709082023.txt
+9ee86e5e27fbf436d8c3abcdac6568a83d09bf824e129d637bb832c037544e18  data/processed/labels/train/12_170709082023.txt
+562ba4ef72924c99f0bd2039cac71f3245ac95f7933f86af9dc962a0de166b96  data/processed/labels/train/15-08-2021_Погоня_Усть-Кут38.txt
+a338b379bdd856f602c6ad727f59c687d2de76fc952232248fa454404ad3c36c  data/processed/labels/train/1_170709082023.txt
+5e5ab5d31b643ab14be9233f26433dc6bbef48ec64eacc9fafe0e9c903d1d62f  data/processed/labels/train/2_170709082023.txt
+332def035eba73dc6124673d9a43955d6db3030cc4076a2b7d2dd03fb2f77f7a  data/processed/labels/train/2ca2bd9s-1920.txt
+dfdf1d7b6348f8a0c1beac5e8bd2aeddb1b1a388cac1a5fbd3b9a0a91fc92e27  data/processed/labels/train/3f481679a0862dadddb7d97b7351cf67.txt
+91fc36af1705a62142bb774596c7a2f3ac0916396682371cda4e22fcce37eff8  data/processed/labels/train/4d3c2d6s-1920.txt
+32dabf8ddb0763093ec037e21dc9b5a1971348ac04f764471a635f380bea4220  data/processed/labels/train/Screenshot from 2023-06-05 14-31-50.txt
+dbae5163c866bbdebd6f8844391179f762799b87c7d01527701ac679d4d4e87c  data/processed/labels/train/screenshot_1529.txt
+df14461f17e88b5f80aa3ca58ddf52fc212d2f2a25f4aef4b0b4f94cb9844414  data/processed/labels/train/vlcsnap-2022-09-01-11h49m01s294.txt
+cf285886fae6caf150054b6c4c65d88c92f4ee136cc1914c477af399613f6b32  data/processed/labels/train/Снимок экрана от 2023-06-05 14-24-28.txt
+a809dd112ee020a135092a641e77b63e1838b98439809ff2c6394711e9551eff  data/processed/labels/train/Снимок экрана от 2023-06-05 14-29-47.txt
+be6593000e6e5ba2d2e4e24dd77584c11a2a69fbcfa17929c5635b763ad03f76  data/processed/labels/train/Снимок экрана от 2023-06-07 14-29-35.txt
+8e169b03e62287f2d7bb437a1713d472987117ad264a0226be257a1e8f8fe3f1  data/processed/labels/train/Снимок экрана от 2023-06-07 14-47-51.txt
+5b4a017c5aafc59c17ba93b610f1263e1b27e05b0756789c66b9bde77765b09d  data/processed/labels/train/Снимок экрана от 2023-06-07 14-48-31.txt
+0c3a8365b1db70ee23c3c76fd8f4660531268c81b424ce549ad03fc2f792f79b  data/processed/labels/train/Снимок экрана от 2023-06-07 14-51-32.txt
+e484df280a6547b161caa09eb73a26b6b4d9848608cd2e9bce336f26bb248db4  data/processed/labels/train/Снимок экрана от 2023-06-07 16-42-06.txt
+4063525bcd920e7a9406367f2b214c8abee33fc19fc76c789bf14255a462169e  data/processed/labels/train/Снимок экрана от 2023-06-08 11-35-27.txt
+924a36260dd660d2f06cf7f6d1f9b3b7137b8d621f76939da62848a1ec7a3a1d  data/processed/labels/val/000000403134.txt
+eab19f5208a290ffbc326064fbc3740e9fbbf84a14d16f2bce3ec92065abb1ac  data/processed/labels/val/102_9aug202317009.txt
+df32a3dd4b067df5e078e6e4ecd426aa9dac7e986fde3de4913a739e719d1788  data/processed/labels/val/10_9aug202317009.txt
+ce4d8e14b2f18001f5a9b1e404e78399081d1990e8fb6d8d0b4794e8c579ef53  data/processed/labels/val/Screenshot_112.txt
+1928dcbe1c3fc7f65a87c2546fa3c8186293a8ac2a06ad182482ee4f81661dc8  data/processed/labels/val/screenshot_1760.txt
+5da60543cc19f3dcafbf5ab7ac350d0a6986dc128e1e44420fed1fc69977d7b3  data/processed/labels/val/Снимок экрана от 2023-06-06 10-13-51.txt
